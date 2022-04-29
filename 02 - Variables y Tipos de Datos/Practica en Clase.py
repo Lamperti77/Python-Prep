@@ -1,7 +1,7 @@
 mi_variable = 12
 print(mi_variable)
 
-mi_variable2 = 'Claudio'
+mi_variable2 = 'Claudio Lamperti'
 print(mi_variable2)
 
 mi_complejo = 5 + 7j
