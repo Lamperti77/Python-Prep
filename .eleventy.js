@@ -19,7 +19,7 @@ const mdAnchorOpts = {
   permalink: true,
   permalinkClass: 'anchor-link',
   permalinkSymbol: '',
-  level: [1, 2, 3],
+  level: [1, 2, 3, 4],
 }
 
 module.exports = function (eleventyConfig) {
