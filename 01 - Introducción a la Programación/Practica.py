@@ -1,8 +1,3 @@
-from gettext import install
-import math
-from openpyxl import NUMPY
-
-
 print('Hola Mundo!')
 numero = 20
 print(numero)
