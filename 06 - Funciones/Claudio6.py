@@ -5,5 +5,7 @@ def verifica_primo(nro):
             es_primo = False
             break
     return es_primo
+    
+
 
     
